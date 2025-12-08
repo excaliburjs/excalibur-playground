@@ -1,3 +1,5 @@
+⚠️ Migrated to the core repo! https://github.com/excaliburjs/Excalibur/tree/main/playground! ⚠️
+
 # Excalibur Studio and Playground
 
 This is the current implementation of the excalibur playground for sharing small game examples via links!
