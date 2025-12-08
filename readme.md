@@ -1,4 +1,6 @@
-⚠️ Migrated to the core repo! https://github.com/excaliburjs/Excalibur/tree/main/playground! ⚠️
+# ⚠️ Migrated to the core repo! https://github.com/excaliburjs/Excalibur/tree/main/playground! ⚠️
+
+<hr>
 
 # Excalibur Studio and Playground
 
